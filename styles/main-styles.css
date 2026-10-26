@@ -14,3 +14,8 @@ body {
     color: navy;
     font-size: medium;
 }
+
+footer {
+    font-size: smaller;
+    color: gray;
+}
